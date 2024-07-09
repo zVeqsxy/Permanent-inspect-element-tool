@@ -1,0 +1,33 @@
+body {
+  width: 200px;
+}
+
+#header {
+  margin-bottom: 20px;
+}
+
+#page-url {
+  word-wrap: break-word;
+}
+
+#reset-buttons-container {
+  margin-top: 20px;
+}
+
+#err-message {
+  margin-top: 3px;
+  font-size: 14px;
+}
+
+button {
+  background-color: bisque;
+  border: rgb(196, 161, 118) 1px solid;
+  border-radius: 5px;
+  padding: 4px 6px;
+  color: black;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 60%;
+}
