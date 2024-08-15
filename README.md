@@ -8,7 +8,7 @@ This Project is a Google Chrome extension, that allows you to save the changes y
 - Saves the changes made to a webpage using the `Inspect Element` Tool by clicking the `Save` button. Changes persist even after refreshing the page.
 - Reset the page to its original state by clicking the `Reset` button.
 - Clear the whole local storage by clicking the `Reset All` button.
-- Displaying error/sucess messages when saving, resetting, or clearing the local storage.
+- Displaying error/success messages when saving, resetting, or clearing the local storage.
 
 
 ## Installation
@@ -45,7 +45,7 @@ This Project is a Google Chrome extension, that allows you to save the changes y
 ---------------------
 <br>
 
-> **⚠️DISCLAIMER**:
+> **⚠️ DISCLAIMER**:
 *This program is intended solely for educational purposes and knowledge sharing. It is strictly prohibited to utilize this code or any associated techniques to cause harm, engage in illegal activities, or compromise the security and privacy of individuals or systems. The developer is not responsible for any misuse, damage, or loss caused by the usage of this project*
 
 
