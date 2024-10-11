@@ -41,14 +41,14 @@ window.addEventListener("load", () => {
   });
 
   document.getElementById("save").addEventListener("click", () => {
-    executeScriptWithErrorHandling("src/savePage.js");
+    executeScriptWithErrorHandling("src/scripts/savePage.js");
   });
 
   document.getElementById('reset').addEventListener('click', () => {
-    executeScriptWithErrorHandling('src/resetPage.js');
+    executeScriptWithErrorHandling('src/scripts/resetPage.js');
   });
 
   document.getElementById('reset-all').addEventListener('click', () => {
-    executeScriptWithErrorHandling('src/resetAll.js');
+    executeScriptWithErrorHandling('src/scripts/resetAll.js');
   });
 });
